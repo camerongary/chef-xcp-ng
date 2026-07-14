@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/icon.png" width="128" alt="chef-xcp-ng icon">
+</p>
+
 # Chef Solo Cookbook for XCP-NG Debian VM Provisioning
 
 Automated infrastructure provisioning using Chef Solo and cloud-init on Debian VMs running on XCP-NG hypervisor.
